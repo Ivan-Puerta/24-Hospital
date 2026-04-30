@@ -1,0 +1,18 @@
+[33mcommit 1654ed06260d472c2ccd5f33218e075843cdb92b[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Merge: 07b95d8 694451c
+Author: ivan <ivandpuertaa@gmail.com>
+Date:   Thu Apr 30 14:50:31 2026 -0500
+
+    Merge branch 'main' of https://github.com/Ivan-Puerta-Estudiante/24-Hospital
+
+[33mcommit 694451ca803b4becc90f9b79d54350fec92b60c0[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Ivan-Puerta-Estudiante <ipuertaa@unicartagena.edu.co>
+Date:   Thu Apr 30 13:29:07 2026 -0500
+
+    Initial commit
+
+[33mcommit 07b95d8912143213360740953ac78f0cfdba3d22[m
+Author: ivan <ivandpuertaa@gmail.com>
+Date:   Thu Apr 30 13:04:01 2026 -0500
+
+    configuracion basica del proyecto

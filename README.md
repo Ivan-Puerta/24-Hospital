@@ -1,2 +1,4 @@
 # 24-Hospital
-proyecto universitario para aprender DDD y arquitectura hexagonal
+
+proyecto de aprendizaje DDD y arquitectura hexagonal
+
